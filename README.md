@@ -27,14 +27,3 @@ Follow these instructions to set up the project locally.
 - Monitor the analysis results and statistics in real-time.
 
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/QControlAI.git
-cd QControlAI
-pip install -r requirements.txt
-cd frontend
-npm install
-python app.py
-npm start
-
